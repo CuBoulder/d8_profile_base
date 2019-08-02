@@ -93,7 +93,8 @@ dependencies:
 
   - hal
   - serialization
-  - default_content
+
+#  - default_content
 
 themes:
   - seven
