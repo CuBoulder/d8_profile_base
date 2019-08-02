@@ -96,7 +96,7 @@ dependencies:
 
 #  - default_content
   - field_group
-  - ucb_content_hub_page_types
+  - boulder_content_hub_page_types
 
 
 themes:
