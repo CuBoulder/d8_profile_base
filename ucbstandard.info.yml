@@ -96,6 +96,8 @@ dependencies:
 
 #  - default_content
   - field_group
+  - ucb_content_hub_page_types
+
 
 themes:
   - seven
