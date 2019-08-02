@@ -2,6 +2,9 @@ name: UCBStandard
 type: profile
 description: 'Install with base UCB modules.'
 
+install:
+  theme: ucb2019_base
+
 dependencies:
   - node
   - history
