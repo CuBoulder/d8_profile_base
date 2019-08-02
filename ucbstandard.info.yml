@@ -95,6 +95,7 @@ dependencies:
   - serialization
 
 #  - default_content
+  - field_group
 
 themes:
   - seven
