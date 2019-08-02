@@ -97,6 +97,7 @@ dependencies:
 #  - default_content
   - field_group
   - boulder_content_hub_page_types
+  - jsonapi
 
 
 themes:
