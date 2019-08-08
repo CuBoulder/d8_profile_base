@@ -81,8 +81,8 @@ dependencies:
 
 #  - migrate_plus
 #  - migrate_tools
-#  - pathauto
-#  - token
+  - pathauto
+  - token
 #  - smtp
 #  - honeypot
   - webform
