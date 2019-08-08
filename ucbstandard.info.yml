@@ -41,12 +41,12 @@ dependencies:
 #  - migrate
   - admin_toolbar
   - admin_toolbar_tools
-#  - authorization
+  - authorization
   - config_update
   - ctools
-#  - easy_breadcrumb
+  - easy_breadcrumb
 #  - externalauth
-#  - features
+  - features
 #  - ldap_authentication
 #  - ldap_authorization
 #  - ldap_servers
@@ -58,8 +58,8 @@ dependencies:
 #  - ckeditor_fa_fix 
   - datetime_range
   - inline_form_errors
-#  - libraries
-#  - media
+  - libraries
+  - media
   - entity_reference_revisions
   - paragraphs
   - purge
